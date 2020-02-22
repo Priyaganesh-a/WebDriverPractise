@@ -20,7 +20,7 @@ public class AutoSuggest {
 		//Concatenation is performed to split the string and do increment operation
 		
 		while(driver.findElements(By.xpath("//*[@id='i"+j+"']/th/a")).size()==1)
-			
+			//test
 			
 		{
 			//get text can be used only with find element and not with find elements
